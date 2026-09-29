@@ -1,0 +1,16 @@
+{
+  "name": "ai-api-calling",
+  "version": "1.0.0",
+  "description": "ai api calling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harendrachohan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "groq-sdk": "^1.6.0"
+  }
+}
